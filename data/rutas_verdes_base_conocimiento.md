@@ -1,0 +1,66 @@
+# Base de conocimiento – Rutas Verdes S.A.S. (empresa ficticia)
+
+## Sobre la empresa
+Rutas Verdes S.A.S. es una empresa ficticia fundada en 2019 en la ciudad de Villa Esmeralda. Se dedica a la venta, alquiler y mantenimiento de bicicletas eléctricas y patinetas eléctricas. Su misión es promover la movilidad sostenible en ciudades intermedias. La fundadora y gerente general es Mariana Quintero. La empresa tiene 24 empleados y atiende a más de 3.000 clientes al año.
+
+## Sedes y horarios
+Rutas Verdes tiene dos sedes. La Sede Centro está ubicada en la Calle 12 # 8-45, Villa Esmeralda, y abre de lunes a sábado de 8:00 a.m. a 7:00 p.m. La Sede Parque Lago está en la Avenida del Lago # 30-10 y abre de martes a domingo de 9:00 a.m. a 6:00 p.m. Los festivos solo abre la Sede Parque Lago, en horario de 10:00 a.m. a 4:00 p.m. La Sede Centro es la única que tiene taller de mantenimiento.
+
+## Canales de contacto
+Los clientes pueden comunicarse por WhatsApp al 300 555 0101, por correo a hola@rutasverdes.example o por la línea fija 601 555 2020. El tiempo de respuesta promedio por WhatsApp es de 15 minutos en horario laboral. Los correos se responden en un máximo de 24 horas hábiles.
+
+## Catálogo de bicicletas eléctricas
+- **RV Urbana 250**: bicicleta eléctrica de ciudad, motor de 250 W, batería de 36 V, autonomía de 50 km, peso de 22 kg. Precio: $3.200.000 COP.
+- **RV Montaña Pro**: bicicleta eléctrica de montaña, motor de 500 W, batería de 48 V, autonomía de 70 km, suspensión doble. Precio: $5.800.000 COP.
+- **RV Plegable Mini**: bicicleta eléctrica plegable, motor de 250 W, autonomía de 35 km, peso de 17 kg, ideal para combinar con transporte público. Precio: $2.700.000 COP.
+- **RV Carga Familiar**: bicicleta de carga con cajón frontal para hasta 2 niños o 60 kg de carga, motor de 350 W, autonomía de 55 km. Precio: $7.400.000 COP.
+
+## Catálogo de patinetas eléctricas
+- **Patineta Volt S**: velocidad máxima de 25 km/h, autonomía de 25 km, soporta hasta 100 kg. Precio: $1.450.000 COP.
+- **Patineta Volt Max**: velocidad máxima de 25 km/h, autonomía de 45 km, llantas neumáticas de 10 pulgadas, soporta hasta 120 kg. Precio: $2.300.000 COP.
+
+## Tarifas de alquiler
+El alquiler de bicicletas eléctricas cuesta $15.000 COP por hora, $60.000 COP por día y $250.000 COP por semana. El alquiler de patinetas cuesta $10.000 COP por hora y $40.000 COP por día. Todo alquiler incluye casco y candado. Para alquilar se requiere cédula original y un depósito de $200.000 COP, que se devuelve al entregar el vehículo en buen estado. Los menores de 16 años no pueden alquilar sin un acudiente presente.
+
+## Programa de membresía "Ruta Frecuente"
+La membresía Ruta Frecuente cuesta $45.000 COP al mes. Incluye 10 horas de alquiler de bicicleta al mes, 10 % de descuento en accesorios y prioridad en el taller. Las horas no usadas no se acumulan para el mes siguiente. La membresía se puede cancelar en cualquier momento sin penalización.
+
+## Política de devoluciones
+Los productos comprados pueden devolverse dentro de los 15 días calendario siguientes a la compra, siempre que estén sin uso, con empaque original y factura. Las bicicletas y patinetas que ya fueron usadas no admiten devolución, pero sí aplican a garantía. El reembolso se hace por el mismo medio de pago en un plazo de 5 a 8 días hábiles. Los accesorios en promoción no tienen devolución.
+
+## Garantía
+Las bicicletas eléctricas tienen 2 años de garantía en el marco y 1 año en motor y batería. Las patinetas tienen 1 año de garantía general. La garantía no cubre daños por caídas, inmersión en agua, modificaciones no autorizadas ni desgaste normal de llantas y frenos. Para hacer válida la garantía se debe presentar la factura en la Sede Centro.
+
+## Servicio de taller y mantenimiento
+El taller funciona solo en la Sede Centro. El mantenimiento básico (ajuste de frenos, cambios y revisión eléctrica) cuesta $80.000 COP y tarda 1 día hábil. El mantenimiento completo cuesta $180.000 COP e incluye limpieza profunda, lubricación, revisión de batería y actualización de software del controlador; tarda 2 a 3 días hábiles. Se recomienda un mantenimiento básico cada 6 meses o cada 1.500 km. Los miembros de Ruta Frecuente tienen prioridad en la fila del taller.
+
+## Envíos
+Rutas Verdes hace envíos gratuitos dentro de Villa Esmeralda para compras mayores a $1.000.000 COP. Para otros municipios el envío cuesta entre $60.000 y $150.000 COP según la distancia, y tarda de 3 a 5 días hábiles. Las bicicletas se entregan ensambladas solo dentro de Villa Esmeralda; en otros municipios llegan semiensambladas con instructivo.
+
+## Medios de pago y financiación
+Se acepta efectivo, tarjeta débito, tarjeta crédito, transferencia y pagos por billetera digital. Rutas Verdes ofrece financiación propia de hasta 12 cuotas sin intereses para compras mayores a $2.500.000 COP, sujeta a estudio de crédito que tarda 24 horas.
+
+## Cuidado de la batería
+Para alargar la vida útil de la batería se recomienda no dejarla descargar por completo, cargarla entre el 20 % y el 80 % en el uso diario y guardarla en un lugar fresco y seco. Una carga completa tarda entre 4 y 6 horas. La batería tiene una vida útil aproximada de 800 ciclos de carga. Una batería de reemplazo cuesta entre $900.000 y $1.600.000 COP según el modelo.
+
+## Seguridad y normas de uso
+Rutas Verdes recomienda usar siempre casco, luces delanteras y traseras en la noche, y circular por ciclorrutas cuando estén disponibles. Las bicicletas eléctricas de la tienda están limitadas a una velocidad asistida máxima de 25 km/h. No se recomienda usar los vehículos bajo lluvia fuerte ni atravesar charcos profundos.
+
+## Equipo
+- Mariana Quintero: fundadora y gerente general.
+- Andrés Beltrán: jefe de taller, técnico certificado en motores eléctricos.
+- Lucía Fajardo: coordinadora de ventas y financiación.
+- Tomás Rincón: encargado de alquileres en la Sede Parque Lago.
+
+## Preguntas frecuentes
+**¿Puedo probar una bicicleta antes de comprarla?** Sí, se ofrece una prueba gratuita de 20 minutos en cualquier sede presentando la cédula.
+
+**¿Hacen descuentos a estudiantes?** Sí, los estudiantes con carné vigente tienen 8 % de descuento en compras y 15 % en alquileres por día.
+
+**¿Qué pasa si se daña la bicicleta durante el alquiler?** El cliente debe reportarlo de inmediato por WhatsApp. Los daños por mal uso se descuentan del depósito; las fallas técnicas no tienen costo para el cliente.
+
+**¿Puedo llevar la bicicleta alquilada fuera de Villa Esmeralda?** Solo en alquileres semanales y con autorización previa de la sede.
+
+**¿Venden repuestos?** Sí, se venden llantas, pastillas de freno, cargadores, luces, cascos, candados y baterías de reemplazo.
+
+**¿Tienen tarjetas de regalo?** Sí, desde $50.000 COP, con vigencia de 1 año y válidas en ambas sedes.
