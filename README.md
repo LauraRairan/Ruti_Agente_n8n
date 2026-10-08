@@ -84,10 +84,8 @@ ruti-agente-n8n/
 │   └── ingesta-rutas-verdes.json
 ├── data/
 │   └── rutas_verdes_base_conocimiento.md
-├── sql/
-│   └── supabase_setup_gemini.sql
-└── assets/
-    └── foto_perfil_ruti.png
+└── sql/
+    ── supabase_setup_gemini.sql 
 ```
 
 ---
